@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohammed%20Akmal&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineer%20%7C%20Anna%20University%20Chennai&descSize=16&descAlignY=60&descFontColor=8B949E&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Akmal&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=EEE%20Student%20at%20Anna%20University%20Chennai&descSize=16&descAlignY=60&descFontColor=dddddd&animation=fadeIn)
 
 <div align="center">
 
