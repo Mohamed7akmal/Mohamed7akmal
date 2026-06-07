@@ -15,8 +15,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Akmal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-akmal-8bb619320)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-akmalmohammed241%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:akmalmohammed241@gmail.com)&nbsp;&nbsp;
-![Location](https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu%20%E2%80%94%20India-555?style=flat-square&logo=googlemaps&logoColor=white)&nbsp;&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=mohammed-akmal&style=flat-square&color=555&label=profile+views)
 
 </div>
@@ -34,7 +32,6 @@
 
 profile = {
     "name"       : "Mohammed Akmal",
-    "based_in"   : "Chennai, Tamil Nadu, India",
     "studying"   : "B.E. Electrical & Electronics Engineering",
     "university" : "Anna University, Chennai",
 
@@ -195,8 +192,6 @@ Engineering Practice          →   Technical Documentation · Problem Decomposi
 <div align="center">
 
 <sub>
-Chennai, Tamil Nadu, India &nbsp;·&nbsp;
-<a href="mailto:akmalmohammed241@gmail.com">akmalmohammed241@gmail.com</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mohammed-akmal-8bb619320">linkedin.com/in/mohammed-akmal</a>
 </sub>
 
@@ -205,5 +200,6 @@ Chennai, Tamil Nadu, India &nbsp;·&nbsp;
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=footer" width="100%"/>
 
 </div>
+
 
 
